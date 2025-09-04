@@ -1,0 +1,7 @@
+001 Ahmad_Susanto F001 3.7T
+002 Anas_Urbaningrum F002 2.5T
+003 Tristan_Albert F003 1.7T
+004 Ben_Trihatmodjo F004 800jt
+002 Anas_Urbaningrum F002 2.5T
+005 presnas F005 100jt
+####

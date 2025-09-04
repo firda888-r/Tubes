@@ -1,0 +1,6 @@
+F001 Penggelapan_danaBOS 2019 4thnpenjara_denda300jt
+F002 Hambalang 2022 3thnpenjara_denda500jt
+F003 penggelapan_danahiban 2023 6thnpenjara_denda500jt
+F004 Pungutan_Liar_PelayananPublik 2021 3thnpenjara_denda300jt
+F005 PencuriHati 2024 100jt 
+####
