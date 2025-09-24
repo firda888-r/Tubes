@@ -1,1 +1,1 @@
-[tes](tokiyo.png)
+[!tes!](tokiyo.png)
