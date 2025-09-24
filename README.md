@@ -1,3 +1,1 @@
-"# coba-coba" 
-
-[tes](fedora.jpg)
+[tes](tokiyo.png)
