@@ -1,1 +1,1 @@
-[!tes!](tokiyo.png)
+![tes](fedora.JPG)
