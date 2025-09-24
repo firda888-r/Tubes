@@ -1,2 +1,2 @@
 "# coba-coba" 
-(fedora.JPG)
+[tes](fedora.JPG)
