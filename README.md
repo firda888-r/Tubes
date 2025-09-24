@@ -1,1 +1,1 @@
-!(fedora.JPG)
+![](fedora.JPG)
